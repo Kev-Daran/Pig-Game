@@ -9,3 +9,5 @@
 # End Game
 
 ![image](https://user-images.githubusercontent.com/81677957/153726075-c78586a2-2203-4aa1-8925-567a3809954f.png)
+
+Made with the help of The Complete JavaScript Course on Udemy.
